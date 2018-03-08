@@ -7,7 +7,7 @@
     "start": "nodemon --exec babel-node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Guido Vizoso",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-env": "^1.6.1"
